@@ -8,7 +8,7 @@ int main() {
     scanf("%f", &gross_pay);
     printf("Enter number of dependants: ");
     scanf("%d", &dependants);
-
+if function
     if (gross_pay < 10000) {
         tax_rate = 0;
     } else if (gross_pay <= 20000 && dependants > 3) {
