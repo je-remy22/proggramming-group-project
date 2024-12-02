@@ -2,7 +2,7 @@
 
 int main() {
     char next_customer;
-
+// do function
     do {
         int credit_limit, price, quantity, total_value;
 
